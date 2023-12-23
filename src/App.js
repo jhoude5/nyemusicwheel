@@ -6,12 +6,24 @@ export default function App() {
     "80's",
     "90's",
     "2000's",
-    "Boy bands",
+    "Boy Bands",
     "Romance",
     "Movies",
-    "Random"
+    "Dealer's Choice",
+    "Hip hop",
+    "Disco"
   ];
-  const segColors = ["#EE4040", "#F0CF50", "#815CD1", "#3DA5E0", "#34A24F", "#E79B2E", "#EB18E3"];
+  const segColors = [
+    "#EE4040", 
+    "#F0CF50", 
+    "#815CD1", 
+    "#3DA5E0", 
+    "#34A24F", 
+    "#E79B2E", 
+    "#EB18E3", 
+    "#7DDE45",
+    "#246186"
+  ];
   const onFinished = (winner) => {
     console.log(winner);
   };
