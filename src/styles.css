@@ -3,9 +3,11 @@
     text-align: center;
 }
 html {
-    background-color: #919DFF;
+    background-image: url('https://exploregdansk.info/wp-content/uploads/2018/12/New-Years-Eve-in-gdansk.jpg');
 }
-
+h1 {
+    color: white;
+}
 @media only screen and (max-width: 800px) {
     h1 {
         text-align: center;
@@ -18,12 +20,12 @@ html {
         width: 500px;
     }
 }
-@media only screen and (min-width: 1200px) {
+@media only screen and (min-width: 801px) {
     h1 {
         font-size: 45px;
     }
     canvas {
-        transform: translate(-30%, 7%);
+        transform: translate(20%, 0%);
         width: 1200px;
     }
 }
