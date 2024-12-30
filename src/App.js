@@ -10,8 +10,8 @@ export default function App() {
     "Romance",
     "Movies",
     "Dealer's Choice",
-    "Hip hop",
-    "Disco"
+    "Hip hop / Rap",
+    "Canadian"
   ];
   const segColors = [
     "#EE4040", 
