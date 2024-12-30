@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/nyemusicwheel/static/css/main.7cafc71f.css",
-    "main.js": "/nyemusicwheel/static/js/main.8cf055bb.js",
+    "main.css": "/nyemusicwheel/static/css/main.af37c8be.css",
+    "main.js": "/nyemusicwheel/static/js/main.7f2aa942.js",
     "index.html": "/nyemusicwheel/index.html",
-    "main.7cafc71f.css.map": "/nyemusicwheel/static/css/main.7cafc71f.css.map",
-    "main.8cf055bb.js.map": "/nyemusicwheel/static/js/main.8cf055bb.js.map"
+    "main.af37c8be.css.map": "/nyemusicwheel/static/css/main.af37c8be.css.map",
+    "main.7f2aa942.js.map": "/nyemusicwheel/static/js/main.7f2aa942.js.map"
   },
   "entrypoints": [
-    "static/css/main.7cafc71f.css",
-    "static/js/main.8cf055bb.js"
+    "static/css/main.af37c8be.css",
+    "static/js/main.7f2aa942.js"
   ]
 }
